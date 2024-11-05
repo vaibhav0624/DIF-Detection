@@ -1,0 +1,11 @@
+# Ensure text files have the correct line endings
+* text=auto
+
+# Specify line endings for specific file types
+*.py text
+*.html text
+*.css text
+*.js text
+*.jpg binary
+*.png binary
+*.pptx binary
